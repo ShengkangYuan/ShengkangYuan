@@ -1,16 +1,18 @@
-## Hi there 👋
+# Shengkang Yuan
 
-<!--
-**ShengkangYuan/ShengkangYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grade 12 international-school student with an AP-to-A-Level academic background, focused on mathematics, artificial intelligence, computing, and quantitative problem solving.
 
-Here are some ideas to get you started:
+## Selected Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MultiAgent MarketMind Simulator
+Multi-agent AI simulation exploring how individual investor behavior produces emergent market phenomena.
+
+### ETF Fund Flow Research
+Quantitative research system combining financial data analysis, systematic ETF signals, and event-driven backtesting.
+
+### Jinrui Platform — Technical Contribution
+Contributed to a school admissions and exam-preparation platform through AI-assisted OCR, question-bank quality control, debugging, and system maintenance.
+
+## Technical Interests
+
+Artificial Intelligence · Machine Learning · Multi-Agent Systems · Mathematics · Quantitative Computing · Data Science
